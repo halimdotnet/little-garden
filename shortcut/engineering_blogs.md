@@ -1,0 +1,85 @@
+# Software Engineering Blogs
+
+- LinkedIn Engineering - https://engineering.linkedin.com/
+- Meta Engineering - https://engineering.fb.com/
+- Dropbox Tech Blog - https://dropbox.tech/
+- Spotify Engineering - https://engineering.atspotify.com/
+- Netflix Tech Blog - https://netflixtechblog.com/
+- GitHub Engineering - https://github.blog/engineering/
+- Stripe Blog - https://stripe.com/blog
+- Uber Engineering Blog - https://www.uber.com/en-RS/blog/engineering/
+- Slack Engineering Blog - https://slack.engineering/
+- Engineering@Microsoft - https://devblogs.microsoft.com/engineering-at-microsoft/
+- Microsoft Developer Blogs - https://devblogs.microsoft.com/
+- Airbnb Tech Blog - https://airbnb.tech/
+- Acast Tech - https://tech.acast.com/
+- Atlassian Developer - https://developer.atlassian.com/blog/
+- Auth0 Blog - https://auth0.com/blog/
+- AWS Architecture - https://aws.amazon.com/blogs/architecture/
+- Booking.com Tech Blog - https://blog.booking.com/
+- Canva Engineering Blog - https://engineering.canva.com/
+- Cloudflare Blog - https://blog.cloudflare.com/
+- Coinbase Blog - https://blog.coinbase.com/
+- Confluent Blog - https://www.confluent.io/blog/
+- Databricks Engineering Blog - https://databricks.com/blog/category/engineering
+- DataDog Engineering Blog - https://www.datadoghq.com/blog/engineering/
+- Discord Blog - https://discord.com/blog/
+- Docker Blog - https://www.docker.com/blog/
+- DoorDash Engineering - https://doordash.engineering/
+- eBay Tech - https://tech.ebayinc.com/
+- Engineering at Quora - https://quoraengineering.quora.com/
+- Etsy Code as Craft Blog - https://www.etsy.com/codeascraft
+- Expedia Engineering Blog - https://medium.com/expedia-group-tech
+- Figma Engineering - https://www.figma.com/blog/section/engineering/
+- Flickr Code - https://code.flickr.net/
+- Google Testing Blog - https://testing.googleblog.com/
+- Google Developers Blog - https://developers.googleblog.com/
+- Google Research - https://research.google/blog/
+- Groupon Engineering - https://medium.com/groupon-eng
+- Heroku Engineering - https://blog.heroku.com/engineering
+- Hulu Tech Blog - https://medium.com/hulu-tech-blog
+- HubSpot Engineering Blog - https://product.hubspot.com/blog/topic/engineering
+- Instagram Engineering - https://instagram-engineering.com/
+- Instacart - https://tech.instacart.com/
+- Lyft Engineering - https://eng.lyft.com/
+- Machine Learning Mastery - https://machinelearningmastery.com/
+- Medium Engineering - https://medium.engineering/
+- Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/
+- MongoDB Engineering - https://engineering.mongodb.com/
+- Notion Tools - https://www.notion.so/blog/topic/tech
+- Nvidia Blog - https://blogs.nvidia.com/
+- Octopus Deploy - https://octopus.com/blog
+- Okta Developer - https://developer.okta.com/blog/
+- OpenAI Research - https://openai.com/research/
+- The PayPal Technology Blog - https://medium.com/paypal-tech
+- Pinterest Engineering - https://medium.com/pinterest-engineering
+- Postman Blog - https://blog.postman.com/
+- Pulumi Blog - https://www.pulumi.com/blog/
+- Red Hat Developer Blog - https://developers.redhat.com/blog
+- Reddit Blog - https://www.reddit.com/r/changelog/
+- Salesforce Developer Blog - https://developer.salesforce.com/blogs
+- Snap Engineering - https://eng.snap.com/
+- Squarespace Engineering - https://engineering.squarespace.com/
+- StackOverflow Engineering - https://stackoverflow.blog/engineering/
+- Square's Technical Blog - https://developer.squareup.com/blog/
+- PayPal Engineering - https://medium.com/paypal-tech
+- Rapid Blog - https://rapidapi.com/blog/
+- Synqy - https://blog.synqy.com/
+- The Zapier Engineering Blog - https://zapier.com/engineering/
+- ThoughtWorks Insights - https://www.thoughtworks.com/insights
+- Tinder Tech Blog - https://medium.com/tinder-engineering
+- Toptal Blog - https://www.toptal.com/blog/
+- Twilio Blog - https://www.twilio.com/en-us/blog
+- Twitter Blog - https://blog.twitter.com/engineering
+- Typo engineering blog - https://blog.typo.io/
+- Yelp Engineering - https://engineeringblog.yelp.com/
+- Zalando Engineering - https://engineering.zalando.com/
+- Zendesk Engineering - https://zendesk.engineering/
+- Zoom Developer Blog - https://developers.zoom.us/blog/
+- Zomato - https://blog.zomato.com/
+- Zynga Engineering Blog - https://www.zynga.com/blogs/engineering
+- Wix Engineering Blog - https://www.wix.engineering/
+
+---
+
+Here is the complete list of blogs to follow: https://github.com/kilimchoi/engineering-blogs
