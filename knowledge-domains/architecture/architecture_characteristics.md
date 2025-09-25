@@ -45,5 +45,3 @@ Cross-cutting architecture characteristics are those that influence various aspe
 8. **Supportability**: What level of technical support is needed by the application and what level of logging and other facilities are required to debug errors.
 9. **Usability/achievability**: Level of training required for users to achieve their goals with the application.
 
-## C. References
-
