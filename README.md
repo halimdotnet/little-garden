@@ -1,1 +1,3 @@
 # little-garden
+
+Personal documentation.
